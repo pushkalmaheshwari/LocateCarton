@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Locate Carton</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="or">Or</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="submit">Submit</string>
+    <string name="wm_server">WM Server</string>
+    <string name="save">Save</string>
+    <string name="check_status_button">Check Status</string>
+    <string name="settings_screen_name">Settings</string>
+    <string name="wm_server_reached">WM Server Reached !!!</string>
+    <string name="wm_server_not_reached">Sorry WM Server Not Reachable</string>
+    <string name="NullLocationError">Location Not Entered.</string>
+    <string name="EnterCarton">Enter Carton</string>
+    <string name="NullCartonMessage">Null Carton Barcode</string>
+    <string name="CartonAcceptError">Error getting the Carton accepted</string>
+    <string name="invalidLocation">Invalid Location</string>
+    <string name="AcceptCartonScreenLable">Accept Carton</string>
+    <string name="LocationEntryScreenName">Location Entry</string>
+    <string name="CartonAcceptSuccessMessage">Carton Accepted !!!</string>
+    <string name="Success">Success</string>
+    <string name="Location">Location</string>
+</resources>
